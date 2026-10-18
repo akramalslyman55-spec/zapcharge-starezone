@@ -1,0 +1,6 @@
+flask
+gunicorn
+sqlalchemy
+pg8000
+requests
+python-telegram-bot==21.6
